@@ -59,7 +59,7 @@
         Raise {
             bindings = <
 &kp ESCAPE  &kp MINUS      &kp UNDERSCORE    &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp BACKSLASH        &kp KP_NUMLOCK  &kp SCROLLLOCK  &kp CAPSLOCK  &caps_word   &kp PRINTSCREEN  &kp DELETE
-&trans      &kp EQUAL      &kp PLUS          &kp LEFT_BRACE    &kp RIGHT_BRACE    &kp PIPE             &kp LEFT        &kp DOWN        &kp UP_ARROW  &kp RIGHT    &trans           &trans
+&trans      &kp EQUAL      &kp PLUS          &kp LEFT_BRACE    &kp RIGHT_BRACE    &kp PIPE             &kp LEFT        &kp DOWN        &kp UP_ARROW  &kp RIGHT    &key_repeat      &trans
 &trans      &kp LESS_THAN  &kp GREATER_THAN  &kp QUESTION      &kp SINGLE_QUOTE   &kp DOUBLE_QUOTES    &kp INSERT      &kp HOME        &kp END       &kp PAGE_UP  &kp PAGE_DOWN    &trans
                                              &trans            &trans             &kp ENTER            &kp SPACE       &trans          &trans
             >;
